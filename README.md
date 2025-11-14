@@ -28,9 +28,6 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web, móv
 
 ## 💼 Experiencia reciente
 
-- 🧱 **Mozo de almacén** – Amazon (Verano 2025)  
-  Organización de inventario.
-
 - 💻 **Prácticas DAM** – Kanzan (mayo 2025)  
   Desarrollo de una aplicación web interna con *Outsystems*, integrando base de datos mediante *JDBC*.
 
