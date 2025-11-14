@@ -44,4 +44,4 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web, móv
 
 ---
 
-⭐ _“Con paciencia y disciplina, el elefante aprendió Java.”_
+⭐ _“Con paciencia y disciplina, el elefante hizo su primer commit.”_
