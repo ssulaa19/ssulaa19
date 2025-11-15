@@ -13,6 +13,11 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web, móv
 
 ---
 
+### Estadísticas en gitHub 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ssulaa19&theme=dark&locale=es&short_numbers=true)](https://git.io/streak-stats)
+
+---
+
 ## 🧠 Tecnologías y herramientas
 
 **Lenguajes:**  
@@ -27,6 +32,9 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web, móv
 ---
 
 ## 💼 Experiencia reciente
+
+- 🧱 **Mozo de almacén** – Amazon (Verano 2025)  
+  Organización de inventario.
 
 - 💻 **Prácticas DAM** – Kanzan (mayo 2025)  
   Desarrollo de una aplicación web interna con *Outsystems*, integrando base de datos mediante *JDBC*.
@@ -44,4 +52,5 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web, móv
 
 ---
 
-⭐ _“Con paciencia y disciplina, el elefante hizo su primer commit.”_
+⭐ _“Con paciencia y disciplina, el elefante aprendió Java.”_
+
