@@ -108,7 +108,7 @@ Me encanta enfrentar retos, aprender nuevas tecnologías y construir soluciones 
 ## 📫 Contacto
 - 📧 Email: <a href="mailto:essekkaa@gmail.com">essekkaa@gmail.com</a>  
 - 🔗 GitHub: [github.com/ssulaa19](https://github.com/ssulaa19)  
-- 💼 Portafolio: (Próximo desafío)
+- 💼 Portafolio: (En desarrollo)
 
 ---
 
